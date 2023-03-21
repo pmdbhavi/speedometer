@@ -1,0 +1,65 @@
+* {
+  margin: 0px;
+}
+
+.main-container {
+  background-color: #07080c;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 31px;
+}
+
+.heading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.image {
+  width: 50vw;
+  height: 50vh;
+  margin: 20px;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  padding: 5px;
+}
+
+.paragraph {
+  color: white;
+  font-family: 'Roboto';
+  padding: 5px;
+}
+
+.con {
+  margin: 10px;
+}
+
+.button1 {
+  border-width: 0px;
+  cursor: pointer;
+  background-color: #0b69ff;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.button2 {
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: transparent;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
